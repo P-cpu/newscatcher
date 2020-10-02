@@ -35,8 +35,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# C extensions
-*.so
+# C extensions */ 
+*.soextension in C is a feature supported by a C compiler that is not described (permitted, mandated) by the C standard
 
 # Distribution / packaging
 .Python
